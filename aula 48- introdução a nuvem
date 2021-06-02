@@ -22,9 +22,7 @@
 
 -Explorar os principais conceitos relacionados ao Elastic Load Balancing (ELB), Amazon CloudWatch e Auto Scaling.
 
-
-
-## Módulos do curso 
+## Módulos do curso
 
 Módulo 1: Visão geral dos conceitos de nuvem
 
@@ -50,10 +48,21 @@ Módulo 10: Auto Scaling e monitoramento
 
 Armazenamento de arquivos, conjunto de data-centers sempre conectados a internet, banco de dados
 
-##  Modelos de serviço nuvem
+## O que é computação de nuvem?
+
+Entrega de recursos de TI sob demanda por meio da internet
+
+## Modelos de serviço nuvem
 
 IaaS  (Infraestrutura como serviço)
 
+-Recursos de hardware como capacidade de processamento, impressão, áreas de armazenamento como serviços de rede
+
 PaaS (Platarforma como serviço)
 
+-Serviço de hospedagem e implementação de hardware e software, usado para prover aplicações por meio da internet
+
 Saas (software como serviço)
+
+-Responsável pela infraestrutura necessária á disponibilização do sistema, e o cliente utiliza o software via internet.
+
