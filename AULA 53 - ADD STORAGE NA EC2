@@ -27,7 +27,7 @@ AULA 53 - ADD STORAGE NA EC2
 -da um save
 -open
 -ec2-user
--sudo su-
+-sudo su -
 -fdisk -l 
 
 *volta nos volumes*
