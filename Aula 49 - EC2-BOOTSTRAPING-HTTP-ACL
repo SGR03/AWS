@@ -23,7 +23,7 @@ Mostra também o DNS cedido pela AWS
 -Regras de entrada ( edita ela )
 -Adicionar regra
 -Adiciona porta HTTP e HTTPS além da que já vem como padrão (SSH)
--Depois que adicionou as porta HTTP e HTTPS, já consegue acessar o site com o ip público e a aparece a tag que foi feita.
+-Depois que adicionou as porta HTTP e HTTPS, já consegue acessar o site com o ip público.
 
 
 
