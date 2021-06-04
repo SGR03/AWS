@@ -11,7 +11,7 @@ armazenar qualquer volume de dados em vários casos de uso.
 
 -acessa o painel S3
 -criar uma bucket
--colocar um nome (suellen-rufino) 9não pode colocar espaço e nem acento)
+-colocar um nome (suellen-rufino) não pode coloca  espaço e nem acento
 -região da virginia (gratuito)
 -bloqueia todos os acessos públicos
 -versionamento da bucket (ativado)
