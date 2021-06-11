@@ -44,37 +44,37 @@
   -colocar o mesmo nome e adicionar o chpu  
   -salvar
 
-*gerenciador de arquivos*
+6)gerenciador de arquivos
 
--downloads
--vai na chave que foi criada e clica com o botão direito do mouse
--abrir com
--bloco de notas
--no bloco de notas, tira o espaço entre as palavras (quebra de linha)
+  -downloads
+  -vai na chave que foi criada e clica com o botão direito do mouse
+  -abrir com
+  -bloco de notas
+  -no bloco de notas, tira o espaço entre as palavras (quebra de linha)
 
-*volta no putty*
+7)volta no putty
 
--sudo vi /home/ec2-user/.ssh/authorized_keys
--enter 
--aperta a tecla o
--coloca ssh-rsa da um espaço e cola o que estava no bloco de notas ( sem os espaços )
--da um esc duas vezes 
--shift :
--x
--enter
--sudo systemctl restart sshd
--botão direito do mouse, em nova sessão
+  -sudo vi /home/ec2-user/.ssh/authorized_keys
+  -enter 
+  -aperta a tecla o
+  -coloca ssh-rsa da um espaço e cola o que estava no bloco de notas ( sem os espaços )
+  -da um esc duas vezes 
+  -shift :
+  -x
+  -enter
+  -sudo systemctl restart sshd
+  -botão direito do mouse, em nova sessão
 
-*volta na AWS*
+8)volta na AWS
 
--copia o ip público
--e cola na nova sessão do putty
--da um nome 
--da um save
--connection > SSH > Auth > Browse > chave ppk
--volta em session 
--da um save
--open
--coloca o usuário: ec2-user
--consegue acessar
+  -copia o ip público
+  -e cola na nova sessão do putty
+  -da um nome 
+  -da um save
+  -connection > SSH > Auth > Browse > chave ppk
+  -volta em session 
+  -da um save
+  -open
+  -coloca o usuário: ec2-user
+  -consegue acessar
 
